@@ -1,21 +1,16 @@
----
-layout: default
-title: Home
----
+# About me
+Artificial Intelligence and Computer Science graduate from The University of Edinburgh who likes making cool things. 
 
 # My GitHub Projects
 
-Welcome to my GitHub projects showcase. Here are some of the projects I've worked on:
+Here are some of the cool things I've worked on:
 
 ## Projects
 
-- [Project 1](https://github.com/your-username/project-1)  
-  Description of project 1.
-
-- [Project 2](https://github.com/your-username/project-2)  
-  Description of project 2.
-
-- [Project 3](https://github.com/your-username/project-3)  
-  Description of project 3.
+- [Fuel Cost Calculator 1]([https://github.com/your-username/project-1](https://github.com/CraigNewlands/fuel-cost-calculator-app))  
+  Fuel Cost Calculator is a simple app to allows you to calculate the fuel cost of a journey by simply entering the fuel price, fuel consumption, and distance.
+  Supports many currencies (£, $, €, Rs., ¥) and the most common units of measurement for fuel consumption (mpg (imperial), mpg (US), L/100km, km/L, L/mile) and distance (km, miles).
+  Has features to clear all values at once and save details between sessions.
+  8000+ downloads across iOS and Android.
 
 Feel free to check out the repositories to see more details about each project.

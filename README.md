@@ -1,4 +1,4 @@
-# About me
+# About Me
 Artificial Intelligence and Computer Science graduate from The University of Edinburgh who likes making cool things. 
 
 # My GitHub Projects

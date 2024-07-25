@@ -13,6 +13,6 @@ Here are some of the cool things I've worked on:
   Has features to clear all values at once and save details between sessions.
   12000+ downloads across iOS and Android.
 - [AIsh](https://github.com/siliconlad/aish)  
-  AIsh is an AI shell making use of locally run LLM's to make command-line suggestions to users. Implemented in rust.
+  AIsh is an AI shell making use of locally run LLM's to make command-line suggestions to users. Implemented in Rust.
 
 Feel free to check out the repositories to see more details about each project.
